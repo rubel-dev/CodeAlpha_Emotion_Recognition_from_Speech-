@@ -1,0 +1,25 @@
+# data & artifacts
+data/
+models/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# virtual env
+.venv/
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+config.bat
+node_modules
